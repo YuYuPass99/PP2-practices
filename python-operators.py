@@ -1,0 +1,13 @@
+print(6 & 3) # Bitwise AND
+print(6 | 3) # Bitwise OR
+print(6 ^ 3) # Bitwise XOR
+
+
+# Own examples:
+
+print(5 & 3) # Bitwise AND, binary 0101 & 0011 = 0001 = 1
+print(5 | 3) # Bitwise OR, binary 0101 | 0011 = 0111 = 7
+print(5 ^ 3) # Bitwise XOR, binary 0101 ^ 0011 = 0110 = 6
+print(12 & 5) # Bitwise AND, binary 1100 & 0101 = 0100 = 4
+print(12 | 5) # Bitwise OR, binary 1100 | 0101 = 1101 = 13
+print(12 ^ 5) # Bitwise XOR, binary 1100 ^ 0101 = 1001 = 9
